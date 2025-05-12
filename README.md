@@ -43,5 +43,5 @@ I'm actively looking for contributors who are passionate about building robust, 
 
 ## 🔥 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)](https://github.com/yourusername)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHIVAKUMARJATLA&show_icons=true&theme=radical)](https://github.com/SHIVAKUMARJATLA)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVAKUMARJATLA&layout=compact&theme=radical)](https://github.com/SHIVAKUMARJATLA)
