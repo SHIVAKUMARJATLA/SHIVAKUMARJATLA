@@ -23,11 +23,7 @@ I'm a passionate Computer Science and Engineering student at **BVRIT** with a st
 
 ---
 
-## 💻 Projects
 
-### Todo List
-A comprehensive web application designed to streamline student data management and administrative tasks.  
-[🔗 View Repository](https://github.com/yourusername/student-management-system) 
 
 
 ---
