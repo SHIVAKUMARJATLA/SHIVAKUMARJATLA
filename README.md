@@ -36,7 +36,7 @@ I'm actively looking for contributors who are passionate about building robust, 
 
 ## 📫 Connect with Me
 
-- **GitHub:** [github.com/yourusername](https://github.com/SHIVAKUMARJATLA)
+- **GitHub:** [github.com/SHIVAKUMARJATLA](https://github.com/SHIVAKUMARJATLA)
 - **LinkedIn:** [linkedin.com/in/shiva-kumar-jatla](https://www.linkedin.com/in/shiva-kumar-jatla-5b2389320/)
 - **Email:** shivakumarjatla80@gmail.com
 ---
