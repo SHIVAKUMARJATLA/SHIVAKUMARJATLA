@@ -1,6 +1,6 @@
 # Hi there, I'm Shiva Kumar Jatla 👋
 
-I'm a passionate Computer Science and Engineering student at **BVRIT** with a strong interest in **Python**, **Web Development**, and **Data Analytics**. I love crafting scalable applications and exploring innovative tech solutions. Welcome to my GitHub profile!
+I'm a passionate Computer Science and Engineering student at **BVRIT** with a strong interest in **Python**, **Web Development**, **Data Analytics** and **AI**. I love crafting scalable applications and exploring innovative tech solutions. Welcome to my GitHub profile!
 
 ---
 
@@ -8,7 +8,7 @@ I'm a passionate Computer Science and Engineering student at **BVRIT** with a st
 
 - 🎓 **College:** BVRIT  
 - 🏫 **Branch:** Computer Science and Engineering - AI & ML (B.Tech)  
-- 💡 **Interests:** Python, Web Development, Data Analytics  
+- 💡 **Interests:** Python, Web Development, Data Analytics, AI Engineering  
 
 ---
 
@@ -19,11 +19,6 @@ I'm a passionate Computer Science and Engineering student at **BVRIT** with a st
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
----
-
-
-
 
 ---
 
